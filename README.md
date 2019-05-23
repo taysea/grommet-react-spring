@@ -1,6 +1,6 @@
 Hi Hi Hi!
 
-Welcome to Swarm Learning
+Want to use Webpack + Grommet? you came to the right place my friend.
 
 Quick Start
 
@@ -18,7 +18,7 @@ yarn build
 
 # App Info
 
-Swarm Learning app for labs Discover 2019
+Template for Webpack + Grommet
 
 Author
 Shimi
