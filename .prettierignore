@@ -1,2 +1,7 @@
-src/**/*.md
-src/**/*.d.ts
+package-lock.json
+yarn.lock
+.cache
+public/
+node_modules/
+build/
+dist/

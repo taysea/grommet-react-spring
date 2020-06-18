@@ -7,28 +7,35 @@
   "license": "MIT",
   "private": true,
   "dependencies": {
+    "babel-polyfill": "^6.26.0",
     "grommet": "^2.7.0",
     "grommet-icons": "^4.0.1",
     "react": "^16.6.1",
     "react-dom": "^16.6.1",
     "react-router-dom": "4.3.1",
-    "styled-components": "^4.1.1"
+    "react-spring": "^8.0.27",
+    "react-waypoint": "^9.0.2",
+    "styled-components": "^4.3.2"
   },
   "devDependencies": {
     "@babel/core": "^7.1.2",
     "@babel/plugin-proposal-class-properties": "^7.1.0",
     "@babel/preset-env": "^7.1.0",
     "@babel/preset-react": "^7.0.0",
+    "@hpe/project-scripts": "^1.0.3",
+    "add": "^2.0.6",
     "babel-loader": "^8.0.5",
     "eslint-config-airbnb": "^17.1.0",
     "eslint-config-prettier": "^4.1.0",
     "eslint-plugin-prettier": "^3.0.0",
     "html-webpack-plugin": "^3.2.0",
+    "or": "^0.2.0",
     "pre-commit": "^1.2.2",
     "prettier": "^1.16.4",
     "webpack": "^4.29.3",
     "webpack-cli": "^3.2.3",
-    "webpack-dev-server": "^3.1.14"
+    "webpack-dev-server": "^3.1.14",
+    "yarn": "^1.17.3"
   },
   "scripts": {
     "start": "webpack-dev-server --mode development --open --hot --port 3002",
