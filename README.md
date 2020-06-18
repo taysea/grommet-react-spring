@@ -1,8 +1,4 @@
-Hi Hi Hi!
-
-Want to use Webpack + Grommet? you came to the right place my friend.
-
-Quick Start
+This is a single page exploration of using react-spring on svgs in the context of Grommet.
 
 # Install dependencies
 
@@ -15,13 +11,3 @@ yarn start
 # Build for production
 
 yarn build
-
-# App Info
-
-Template for Webpack + Grommet
-
-Author
-Shimi
-
-Version
-1.0.0
